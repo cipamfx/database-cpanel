@@ -1,1 +1,0 @@
-# database-cpanel
